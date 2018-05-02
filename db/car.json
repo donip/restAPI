@@ -1,0 +1,47 @@
+[
+    {
+        "manufacturer": "Audi",
+        "type": "A3",
+        "year": "2012",
+        "fuel": "petrol",
+        "color": "grey",
+        "reg": "PAA118",
+        "_id": "vtsVb6As7F67680NI77b66Arr"
+    },
+    {
+        "manufacturer": "Skoda",
+        "type": "Octavia",
+        "year": "2015",
+        "fuel": "diesel",
+        "color": "white",
+        "reg": "PAG594",
+        "_id": "Bjmsarsr5jr8t76w6vA2b6VN7"
+    },
+    {
+        "manufacturer": "Skoda",
+        "type": "Fabia",
+        "year": "2018",
+        "fuel": "petrol",
+        "color": "white",
+        "reg": "PMX-200",
+        "_id": "lrsrr2D8wmt7nnNa2q8rbbD2T"
+    },
+    {
+        "manufacturer": "VW",
+        "type": "Passat",
+        "year": "2017",
+        "fuel": "petrol",
+        "color": "green",
+        "reg": "PRR469",
+        "_id": "sQ6QVH8TAw8Tt7V7A4jAVajv7"
+    },
+    {
+        "manufacturer": "Skoda",
+        "type": "Karoq",
+        "year": "2018",
+        "fuel": "diesel",
+        "color": "black",
+        "reg": "PSR445",
+        "_id": "47Qs1Drbw6QDF47b68w3TrwIT"
+    }
+]

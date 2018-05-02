@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Szarka Péter",
+        "email": "sz@gmail.com",
+        "job": "progammer",
+        "address": "42 Akácfa Str. Sopron",
+        "_id": "v7HAJs51DVA487mD74r4JAr6T"
+    },
+    {
+        "name": "Pataki Doni",
+        "email": "pataki@gmail.com",
+        "job": "progammer",
+        "address": "Rackeve",
+        "_id": "pB4AaSD0wD7rSaT7nsps7T8QV"
+    },
+    {
+        "name": "Charlie Delta",
+        "email": "cd@gmail.com",
+        "job": "assistant",
+        "address": "99 Amber Street, Washington DC",
+        "_id": "285866b5Dr0v3tv28vT26TrbA"
+    },
+    {
+        "name": "Alfa Bravo",
+        "age": "",
+        "job": "programmer",
+        "email": "daps@gmail.com",
+        "address": "Budapest",
+        "_id": "77607a77p4HsQbr87sVAbVrrH"
+    }
+]
